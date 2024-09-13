@@ -13,6 +13,7 @@ list_of_files = [
     "src/components/data_transformation.py",
     "src/components/model_trainer.py",
     "src/components/model_evaluation.py",
+    "src/exception/exception.py",
     "src/pipeline/__init__.py",
     "src/pipeline/training_pipeline.py",
     "src/pipeline/prediction_pipeline.py",
